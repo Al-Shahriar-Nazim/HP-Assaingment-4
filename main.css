@@ -9,4 +9,7 @@
     .card-one{
         @apply shadow-2xl p-4 rounded-lg hover:scale-105 transition-all duration-300 hover:bg-gray-200
     }
+    .card-two{
+        @apply shadow-xl flex items-center justify-center p-5 hover:scale-105 transition-all duration-300 hover:bg-gray-200 rounded-lg
+    }
 }
